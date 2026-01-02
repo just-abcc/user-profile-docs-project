@@ -1,6 +1,7 @@
 name: CI
 on: [push]
 
+
 jobs:
   build_and_test:
     runs-on: ubuntu-latest
